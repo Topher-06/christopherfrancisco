@@ -450,7 +450,7 @@
                         <!-- text -->
                         <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="contact.html" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="contact.html" class="art-link art-color-link art-w-chevron">Let's Talk</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -471,7 +471,7 @@
                         <!-- text -->
                         <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="contact.html" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="contact.html" class="art-link art-color-link art-w-chevron">Let's Talk</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -492,7 +492,7 @@
                         <!-- text -->
                         <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="contact.html" class="art-link art-color-link art-w-chevron">Order now</a></div>
+                        <div class="art-buttons-frame"><a href="contact.html" class="art-link art-color-link art-w-chevron">Let's Talk</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
