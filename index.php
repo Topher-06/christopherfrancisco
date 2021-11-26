@@ -562,47 +562,7 @@
               <!-- container end -->
 
               <!-- container -->
-              <div class="container-fluid">
-
-                <!-- row -->
-                <div class="row">
-
-                  <!-- col -->
-
-                  <!-- col end -->
-
-                  <!-- col -->
-
-                  <!-- col end -->
-
-                  <!-- col -->
-                  <div class="col-lg-12">
-
-                    <!-- slider navigation -->
-                    <div class="art-slider-navigation">
-
-                      <!-- left side -->
-                      <div class="art-sn-left">
-
-                        <!-- slider pagination -->
-                        <div class="swiper-pagination"></div>
-
-                      </div>
-                      <!-- left side end -->
-
-                      <!-- right side -->
-                      <!-- right side end -->
-
-                    </div>
-                    <!-- slider navigation end -->
-
-                  </div>
-                  <!-- col end -->
-
-                </div>
-                <!-- row end -->
-
-              </div>
+              
               <!-- container end -->
 
               <!-- container -->
