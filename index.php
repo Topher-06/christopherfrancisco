@@ -71,7 +71,7 @@
               <!-- name -->
               <h5 class="art-name mb-10"><a href="home.html">Christopher Francisco</a></h5>
               <!-- post -->
-              <div class="art-sm-text">Back-end Deweloper <br>Androi Developer, </div>
+              <div class="art-sm-text">Back-end Deweloper <br>Android Developer, </div>
             </div>
             <!-- info bar header end -->
 
