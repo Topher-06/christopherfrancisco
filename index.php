@@ -225,8 +225,6 @@
                 <!-- list item -->
                 <li>Stylus, Sass, Less</li>
                 <!-- list item -->
-                <li>Gulp, Webpack, Grunt</li>
-                <!-- list item -->
                 <li>GIT knowledge</li>
               </ul>
               <!-- knowledge list end -->
@@ -499,15 +497,6 @@
                     <!-- service end -->
 
                   </div>
-                  <!-- col end -->
-
-                  <!-- col -->
-                 
-                  <!-- col end -->
-
-                  <!-- col -->
-                  
-                  <!-- col end -->
 
                 </div>
                 <!-- row end -->
