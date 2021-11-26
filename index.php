@@ -306,7 +306,7 @@
                               data-rotate='[ "web interfaces.", "ios and android applications." ]'></span>&lt;/<i>code</i>&gt;</div>
                           <div class="art-buttons-frame">
                             <!-- button -->
-                            <a href="portfolio-3-col-masonry.html" class="art-btn art-btn-md"><span>Explore now</span></a>
+                            <a href="#" class="art-btn art-btn-md"><span>Explore now</span></a>
                           </div>
                         </div>
                         <!-- main title end -->
@@ -448,7 +448,7 @@
                         <!-- text -->
                         <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="contact.html" class="art-link art-color-link art-w-chevron">Let's Talk</a></div>
+                        <div class="art-buttons-frame"><a href="#" class="art-link art-color-link art-w-chevron">Let's Talk</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -469,7 +469,7 @@
                         <!-- text -->
                         <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="contact.html" class="art-link art-color-link art-w-chevron">Let's Talk</a></div>
+                        <div class="art-buttons-frame"><a href="#" class="art-link art-color-link art-w-chevron">Let's Talk</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
@@ -490,7 +490,7 @@
                         <!-- text -->
                         <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
                         <!-- button -->
-                        <div class="art-buttons-frame"><a href="contact.html" class="art-link art-color-link art-w-chevron">Let's Talk</a></div>
+                        <div class="art-buttons-frame"><a href="#" class="art-link art-color-link art-w-chevron">Let's Talk</a></div>
                       </div>
                       <!-- service content end -->
                     </div>
