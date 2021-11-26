@@ -302,8 +302,7 @@
                           <!-- title -->
                           <h1 class="mb-15">Discover my Amazing <br>Art Space!</h1>
                           <!-- suptitle -->
-                          <div class="art-lg-text art-code mb-25">&lt;<i>code</i>&gt; I build <span class="txt-rotate" data-period="2000"
-                              data-rotate='[ "web interfaces.", "ios and android applications." ]'></span>&lt;/<i>code</i>&gt;</div>
+                          <div class="art-lg-text art-code mb-25">&lt;<i>code</i>&gt; I build <span class="txt-rotate" data-period="2000" data-rotate='[ "web interfaces.", "ios and android applications." ]'></span>&lt;/<i>code</i>&gt;</div>
                           <div class="art-buttons-frame">
                             <!-- button -->
                             <a href="portfolio-3-col-masonry.html" class="art-btn art-btn-md"><span>Explore now</span></a>
@@ -504,8 +503,62 @@
               </div>
               <!-- container end -->
 
+
+
               <!-- container -->
-              
+
+
+              <div class="container-fluid">
+
+                <!-- row -->
+                <div class="row">
+
+                  <!-- col -->
+                  <div class="col-lg-12">
+
+                    <!-- section title -->
+                    <div class="art-section-title">
+                      <!-- title frame -->
+                      <div class="art-title-frame">
+                        <!-- title -->
+                        <h4>My Porjects</h4>
+                      </div>
+                      <!-- title frame end -->
+                    </div>
+                    <!-- section title end -->
+
+                  </div>
+                  <!-- col end -->
+
+                  <!-- col -->
+                  <div class="col-lg-4 col-md-6">
+
+                    <!-- service -->
+                    <div class="art-a art-service-icon-box">
+                      <!-- service content -->
+                      <div class="art-service-ib-content">
+                        <!-- title -->
+                        <h5 class="mb-15">Web Development</h5>
+                        <!-- text -->
+                        <div class="mb-15">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus esse commodi deserunt vitae, vero quasi! Veniam quaerat tenetur pariatur doloribus.</div>
+                        <!-- button -->
+                        <div class="art-buttons-frame"><a href="contact.html" class="art-link art-color-link art-w-chevron">Let's Talk</a></div>
+                      </div>
+                      <!-- service content end -->
+                    </div>
+                    <!-- service end -->
+
+                  </div>
+                  <!-- col end -->
+
+
+
+                </div>
+                <!-- row end -->
+
+              </div>
+
+
               <!-- container end -->
 
               <!-- container -->
@@ -515,11 +568,11 @@
                 <div class="row">
 
                   <!-- col -->
-                  
+
                   <!-- col end -->
 
                   <!-- col -->
-                  
+
                   <!-- col end -->
 
                   <!-- col -->
@@ -553,7 +606,7 @@
               <!-- container end -->
 
               <!-- container -->
-             
+
               <!-- container end -->
 
               <!-- container -->
@@ -564,7 +617,7 @@
                   <!-- copyright -->
                   <div class="art-copy">© 2021 Christopher Francisco</div>
                   <!-- author ( Please! Do not delete it. You are awesome! :) -->
-                  
+
                 </footer>
                 <!-- footer end -->
 
