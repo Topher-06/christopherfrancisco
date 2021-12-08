@@ -23,14 +23,14 @@
 </head>
 <style>
   .xCard{
-    opacity: .3;
+    opacity: .5;
     cursor: hand;
     transition: .5s ease-in;
   }
   .xCard:hover{
     opacity: 1;
-    transform: scale(1.2);
-    transition: 1s ease-in;
+    margin-top: -20px;
+    transition: .5s ease-in;
   }
 </style>
 
